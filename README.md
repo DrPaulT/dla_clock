@@ -1,4 +1,4 @@
-# dla\_clock
+# DLA Clock
 
 A port of my old Android watchface created with a diffusion-limited aggregation
 pattern.
